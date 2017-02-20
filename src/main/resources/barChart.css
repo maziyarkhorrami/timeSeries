@@ -1,0 +1,43 @@
+.chart-plot-background {
+-fx-background-color: transparent;
+}
+.default-color0.chart-series-line {
+-fx-stroke: blue;
+} 
+.default-color0.chart-line-symbol { 
+    -fx-background-color: blue, white;
+}
+.chart-legend {
+   -fx-background-color:  transparent;
+   -fx-padding: 1px;
+}
+
+.axis-tick-mark {
+	-fx-background-color: transparent;
+    /*-fx-stroke: #637040;
+    -fx-stroke-width: 0; */
+} 
+
+.axis {
+   /* -fx-font-size: 1.4em;
+    -fx-color: transparent;
+    -fx-tick-label-fill: transparent;
+    -fx-font-family: Tahoma;
+    -fx-tick-length: 5;
+    -fx-minor-tick-length: 3; */
+}
+.axis:top {
+    -fx-border-color: transparent transparent transparent transparent;
+}
+.axis:right {
+    -fx-border-color: transparent transparent transparent transparent;
+}
+.axis:bottom {
+    -fx-border-color: transparent transparent transparent transparent;
+}
+.axis:left {
+    -fx-border-color: transparent transparent transparent transparent;
+}
+.axis-label {
+   -fx-text-fill: #462300; 
+}
