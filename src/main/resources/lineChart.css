@@ -12,7 +12,7 @@
    -fx-color: transparent;
    -fx-padding: 1px;
 }
-
+ 
 .axis-tick-mark {
 	-fx-background-color: transparent;
     /*-fx-stroke: #637040;
